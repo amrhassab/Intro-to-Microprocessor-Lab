@@ -1,9 +1,1 @@
-LEDs aren't working at the moment, but the functions are defined
-They turn on without explanation... i don't care at the moment
 
-Algorithm is basic as fuck, see comments in main.  It can get lost if the robot
-enters an open area with no nearby walls, or if it turns a corner really really
-poorly, but for the most part it works.  Just make sure it starts near a wall 
-on the left
-
-            - Sebastian
